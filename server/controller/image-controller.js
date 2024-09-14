@@ -1,5 +1,5 @@
 import File from '../models/file.js';
-import bcrypt from 'bcrypt';
+import bcrypt from 'bcrypt.js';
 import dotenv from 'dotenv';
 
 dotenv.config();
